@@ -1,0 +1,14 @@
+F:\CSharp\Concepts\BasicConcepts\bin\Debug\net9.0\BasicConcepts.exe
+F:\CSharp\Concepts\BasicConcepts\bin\Debug\net9.0\BasicConcepts.deps.json
+F:\CSharp\Concepts\BasicConcepts\bin\Debug\net9.0\BasicConcepts.runtimeconfig.json
+F:\CSharp\Concepts\BasicConcepts\bin\Debug\net9.0\BasicConcepts.dll
+F:\CSharp\Concepts\BasicConcepts\bin\Debug\net9.0\BasicConcepts.pdb
+F:\CSharp\Concepts\BasicConcepts\obj\Debug\net9.0\BasicConcepts.GeneratedMSBuildEditorConfig.editorconfig
+F:\CSharp\Concepts\BasicConcepts\obj\Debug\net9.0\BasicConcepts.AssemblyInfoInputs.cache
+F:\CSharp\Concepts\BasicConcepts\obj\Debug\net9.0\BasicConcepts.AssemblyInfo.cs
+F:\CSharp\Concepts\BasicConcepts\obj\Debug\net9.0\BasicConcepts.csproj.CoreCompileInputs.cache
+F:\CSharp\Concepts\BasicConcepts\obj\Debug\net9.0\BasicConcepts.dll
+F:\CSharp\Concepts\BasicConcepts\obj\Debug\net9.0\refint\BasicConcepts.dll
+F:\CSharp\Concepts\BasicConcepts\obj\Debug\net9.0\BasicConcepts.pdb
+F:\CSharp\Concepts\BasicConcepts\obj\Debug\net9.0\BasicConcepts.genruntimeconfig.cache
+F:\CSharp\Concepts\BasicConcepts\obj\Debug\net9.0\ref\BasicConcepts.dll
